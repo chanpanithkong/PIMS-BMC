@@ -19,9 +19,4 @@ Users:
 
 
 npm ci
-
 Copy-Item .env.example .env.local
-
-npm install
-
-npm run dev
